@@ -26,7 +26,7 @@ vector<int> breakingRecords(vector<int> scores)
     return record;
 }
 
-int main()
+void Output()
 {
     vector<int> scores{ 3, 4, 21, 36, 10, 28, 35, 5, 24, 42 };
 
@@ -37,5 +37,10 @@ int main()
         cout << record[i] << " ";
     }
 
-    cin.get();
+}
+
+int main()
+{
+
+    cout << "Problem sloving called"<<endl;
 }

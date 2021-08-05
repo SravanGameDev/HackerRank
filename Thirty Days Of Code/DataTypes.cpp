@@ -12,7 +12,6 @@ namespace ThirtyDaysOfCode
         double d = 4.0;
         string s = "HackerRank ";
 
-
         // Declare second integer, double, and String variables.
         int sum;
         double n;

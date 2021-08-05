@@ -3,5 +3,6 @@
 namespace ThirtyDaysOfCode
 {
 	void DataTypes();
-	void Print();
+	void Operators();
+	void OutputOperators();
 }

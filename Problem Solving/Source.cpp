@@ -3,8 +3,7 @@
 
 int main()
 {
-    ThirtyDaysOfCode::DataTypes();
-    ThirtyDaysOfCode::Print();
+    ThirtyDaysOfCode::OutputOperators();
 
     std::cin.get();
 }

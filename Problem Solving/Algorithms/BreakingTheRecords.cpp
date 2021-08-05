@@ -38,9 +38,3 @@ void Output()
     }
 
 }
-
-int main()
-{
-
-    cout << "Problem sloving called"<<endl;
-}

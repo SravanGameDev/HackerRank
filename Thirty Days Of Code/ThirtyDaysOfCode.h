@@ -3,6 +3,7 @@
 namespace ThirtyDaysOfCode
 {
 	void DataTypes();
-	void Operators();
 	void OutputOperators();
+	void IntroToConditionalStatements(int number);
+	void OutputIntroToConditionalStatements();
 }

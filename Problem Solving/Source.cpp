@@ -3,7 +3,7 @@
 
 int main()
 {
-    ThirtyDaysOfCode::OutputIntroToConditionalStatements();
+    ThirtyDaysOfCode::OutputClassVsInstance();
 
     std::cin.get();
 }

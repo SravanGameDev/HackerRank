@@ -142,6 +142,7 @@
     <ClInclude Include="ThirtyDaysOfCode.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="ClassVsInstance.cpp" />
     <ClCompile Include="DataTypes.cpp" />
     <ClCompile Include="IntroToConditionalStatements.cpp" />
     <ClCompile Include="Operators.cpp" />

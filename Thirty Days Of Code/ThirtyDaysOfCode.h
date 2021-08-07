@@ -6,4 +6,5 @@ namespace ThirtyDaysOfCode
 	void OutputOperators();
 	void IntroToConditionalStatements(int number);
 	void OutputIntroToConditionalStatements();
+	void OutputClassVsInstance();
 }
